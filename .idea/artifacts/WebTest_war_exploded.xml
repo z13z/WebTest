@@ -8,6 +8,7 @@
           <element id="module-output" name="WebTest" />
         </element>
       </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.41-bin" />
     </root>
   </artifact>
 </component>
